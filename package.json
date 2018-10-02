@@ -1,0 +1,19 @@
+{
+  "name": "recursive-deep-diff",
+  "version": "1.0.0",
+  "description": "Recursively diff objects and arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nohorjo/recursive-deep-diff.git"
+  },
+  "author": "Muhammed Haque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nohorjo/recursive-deep-diff/issues"
+  },
+  "homepage": "https://github.com/nohorjo/recursive-deep-diff#readme"
+}
