@@ -17,7 +17,8 @@ const a = {
             f: 6,
             g: 7
         }
-    ]
+    ],
+    h: 8
 };
 
 const b = {
@@ -31,7 +32,8 @@ const b = {
         {
             f: 5
         }
-    ]
+    ],
+    h: 8
 };
 
 const diffs = diff(a, b);
